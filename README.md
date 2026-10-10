@@ -34,13 +34,6 @@ Here are a few key projects demonstrating my transition from descriptive analyti
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaikh-Mazher01&show_icons=true&theme=radical&hide_border=true" alt="Mazher's GitHub Stats" />
-</p>
-
----
 
 ### 📬 Connect with Me
 
